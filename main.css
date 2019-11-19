@@ -1,0 +1,19 @@
+.chat-stream{
+    height: 66vh;
+
+    background-color: bisque;
+    border: solid 5px;
+    border-color: darkolivegreen;
+
+    display: flex;
+    align-items: flex-end;
+
+    overflow: hidden;
+}
+h1{
+    font-size: medium;
+    color: lawngreen;
+}
+body{
+    background-color: dimgrey;
+}
